@@ -83,7 +83,7 @@ The project aims to provide a structured understanding of credit pre-screening t
 
 ## Contributors
 
-- U. Harpitha
+- U. Harpita
 - V. Dinesh Reddy
 - V. Sreya Angelin
 
